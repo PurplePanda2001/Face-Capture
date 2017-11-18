@@ -1,13 +1,13 @@
 '''
     Facial Recognition Side Project
 
-    File: ip_webcam_face_capture.py
+    File: webcam_face_capture.py
     Date: 11/9/17
     Author: Alfredo Salazar
     Version: 1.0
 
-    A program that takes frames from IP Webcam (a website that uses my android
-    phone as a webcam), detects faces and eyes using Haar cascades, and displays video
+    A program that takes frames from a webcam, detects faces 
+    and eyes using Haar cascades, and displays video
     and the detections in a window.
 '''
 
